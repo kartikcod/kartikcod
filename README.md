@@ -103,3 +103,5 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/kartikcod/kartikcod/output/snake.svg" alt="Snake animation" />
+
