@@ -1,60 +1,21 @@
-<div align="center">
-  <img src="https://media.tenor.com/duhMYcjRkcEAAAAi/welcome-sparkly.gif" width="200" />
-  
-  <h1 align="center">Hey there 👋, I'm Kartik Mahato</h1>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kartik-mahato-206760227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/hlo.kartik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:kartik.officialdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+# 💫 About Me:
+🏡 I'm from Jharkhand, India<br>🔭 Currently learning React.js and JavaScript<br>🎨 Exploring Graphic Design and Web Development in my free time<br>💡 Passionate about UI/UX, Open Source, and Tech Communities
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartikcod.kartikcod&left_text=Profile%20Views" />
-</div>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikmahato.me) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kartikcod&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kartikcod&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikcod&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🏡 From **Jharkhand, India** - 🚀 Currently mastering **React.js** and advanced **JavaScript** - 🎨 Passionate about bridging the gap between **UI/UX Design** and **Web Development** - 💡 Fun fact: I love experimenting with **Canva** and **Graphic Design** in my downtime
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kartikcod&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Languages & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</div>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikcod&theme=dracula&hide_border=false" width="100%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikcod&show_icons=true&theme=dracula&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikcod&layout=compact&theme=dracula" width="48%" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kartikcod/kartikcod/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kartikcod/count.svg" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
