@@ -53,11 +53,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
 </div>
 
-
-
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kartikcod/count.svg?" />
-</div>
