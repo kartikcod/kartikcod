@@ -53,18 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
 </div>
 
----
 
-### 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikcod&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikcod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikcod&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
 
 ---
 
