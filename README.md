@@ -68,12 +68,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/kartikcod/kartikcod/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/kartikcod/count.svg?" />
 </div>
