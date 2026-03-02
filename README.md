@@ -18,12 +18,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartikcod.kartikcod&left_text=Profile Views" />
-</div>
-
----
-
 <h1 align="center">Hey there 👋, I'm Kartik Mahato</h1>
 
 ---
