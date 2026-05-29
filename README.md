@@ -1,49 +1,98 @@
 <div align="center">
-  <img src="https://media.tenor.com/duhMYcjRkcEAAAAi/welcome-sparkly.gif" />
+  <img src="https://media.tenor.com/duhMYcjRkcEAAAAi/welcome-sparkly.gif" width="180" />
 </div>
 
----
+<h1 align="center">Hi 👋, I'm Kartik Mahato</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kartik-mahato-206760227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/hlo.kartik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-  <a href="mailto:kartik.officialdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
-</div>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer</h3>
+
+<p align="center">
+Passionate about building modern web applications with React, Next.js, Node.js, Express.js, and MongoDB.
+</p>
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Kartik Mahato</h1>
+### 🚀 About Me
+
+* 💻 Full Stack Web Developer from Jharkhand, India
+* 🌱 Currently improving my skills in **Next.js, TypeScript, and Backend Development**
+* ⚡ Building scalable web applications using the **MERN Stack**
+* 🎨 Experienced in UI Development and Responsive Design
+* 📚 Always learning new technologies and best practices
 
 ---
 
-### 👨‍💻 About Me
+### 🌐 Connect With Me
 
-- 🏡 I'm from **Jharkhand, India**  
-- 🔭 Currently learning **React.js** and **JavaScript**  
-- 🎨 Exploring **Graphic Design** and **Web Development** in my free time  
-- 💡 Passionate about UI/UX, Open Source, and Tech Communities
+<p align="left">
+<a href="https://www.linkedin.com/in/kartik-mahato-206760227/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kartik.officialdev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://kartik-mahato.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-</div>
+#### Frontend
 
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+#### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+#### Database
+
+* MongoDB
+* Mongoose
+
+#### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Canva
+* Hostinger VPS
+
+---
+
+### 📈 Currently Working On
+
+* MERN Stack Applications
+* Admin Dashboards
+* Hotel & Restaurant Management Systems
+* Portfolio & Business Websites
+* Authentication & Authorization Systems
+
+---
+
+### 🎯 Goals for 2026
+
+* Master Next.js
+* Learn TypeScript
+* Build SaaS Applications
+* Contribute to Open Source
+* Get a Full-Time MERN Developer Role
+
+---
+
+⭐ If you like my work, feel free to connect and collaborate.
